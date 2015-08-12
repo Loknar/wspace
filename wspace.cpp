@@ -46,6 +46,9 @@
  *
  *
 */
+#include <string.h>
+#include <cstring>
+#include <cstdlib>
 #include <iostream>
 #include <fstream>
 #include <string>
